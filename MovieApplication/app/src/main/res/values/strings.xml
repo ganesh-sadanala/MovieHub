@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+
+
+    <string name="api_key">5579cf2006dc3815560a4551e7b3ccf9</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Navigation drawer menu item string !-->
+
+
+    <string name="home">Home</string>
+
+    <string name="movie">Movie</string>
+
+    <string name="tv">TV Shows</string>
+
+    <string name="people">People</string>
+
+    <string name="genre">Genres</string>
+
+    <string name="rate">Rate app</string>
+
+    <string name="other">Other</string>
+
+    <!-- Movie tab layout string !-->
+
+
+    <string name="popular_movie">Popular</string>
+
+    <string name="now_playing_movie">Now Playing</string>
+
+    <string name="top_rated_movie">Top Rated</string>
+
+    <string name="upcoming_movie">Upcoming</string>
+
+    <!-- TvFragment shows tab layout string!-->
+
+
+    <string name="popular_tv">Popular</string>
+
+    <string name="top_rated">Top Rated</string>
+
+    <string name="on_tv">On Tv</string>
+
+    <!-- DiscoverFragment tab layout string -->
+
+
+    <string name="discover_movie">Movie</string>
+
+    <string name="discover_tv">TV</string>
+</resources>
