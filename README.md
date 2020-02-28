@@ -3,7 +3,7 @@ This applications fetch the current data of movies from MovieDB and showcase it 
 
 Android applications for beginners
 
-FrontEnd: xml
-Backend: java
-Database: sqlite
+FrontEnd: xml<br/>
+Backend: java<br/>
+Database: sqlite<br/>
 Libraries: Glide
